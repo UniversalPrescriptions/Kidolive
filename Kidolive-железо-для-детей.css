@@ -114,7 +114,7 @@ header .fa-bars{
     display: flex;
     align-items: center;
     min-height: 100vh;
-    background:url(https://github.com/UniversalPrescriptions/Kidolive/blob/80f3be156dd2a108be2d8b6cffcbcb17368e64aa/3.jpg) no-repeat;
+    background:url(3.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }
