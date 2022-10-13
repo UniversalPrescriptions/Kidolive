@@ -135,8 +135,9 @@ height: 20px;
 
 
 .home-packages{
-   /* background: var(--light-bg); */
-   background-color: #386641 ;
+  background: url(Kidolive-поливитамины-мармеладки.jpg); 
+  background-size: cover !important;
+  background-position: center !important; 
 }
 
 .home-packages .box-container{
