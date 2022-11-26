@@ -1,0 +1,35 @@
+User-agent: *
+Disallow: 
+
+User-agent: *
+Allow: /https://kidolive.pl/
+Allow: /https://kidolive.pl/index
+Allow: /https://kidolive.pl/Kidolive-products.html
+Allow: /https://kidolive.pl/Kidolive-iron-gummy-bear.html
+Allow: /https://kidolive.pl/Kidolive-multivitamin-gummy-bear.html
+Allow: /https://kidolive.pl/Kidolive-omega-gummy-bear.html
+Allow: /https://kidolive.pl/LLP-immune-chocolate-bear.html
+Allow: /https://kidolive.pl/Hartus-strong-bones.html
+Allow: /https://kidolive.pl/Multivitamin-plus-chocolate-bear.html
+Allow: /https://kidolive.pl/Kidolive-vegan-ala-chocolate-bear.html
+Allow: /https://kidolive.pl/Kidolive-syrup-for-immunity.html
+Allow: /https://kidolive.pl/Kidolive-vitamin-D3-drop.html
+Allow: /https://kidolive.pl/Kidolive-mission.html
+Allow: /https://kidolive.pl/Kidolive-contact.html
+Allow: /https://kidolive.pl/Kidolive-%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.html
+Allow: /https://kidolive.pl/Kidolive-%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D1%82.html
+Allow: /https://kidolive.pl/Kidolive-%D0%B6%D0%B5%D0%BB%D0%B5%D0%B7%D0%BE-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.html
+Allow: /https://kidolive.pl/Kidolive-%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BD%D1%8B%D0%B8%CC%86-%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.html
+Allow: /https://kidolive.pl/Kidolive-%D0%BF%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D1%8B-%D1%85%D0%BE%D0%BB%D0%B8%D0%BD-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.html
+Allow: /https://kidolive.pl/Kidolive-LLP-%D0%BF%D1%80%D0%BE%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA-%D0%BF%D1%80%D0%B5%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA-%D0%B8%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%82%D0%B5%D1%82-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.html
+Allow: /https://kidolive.pl/Kidolive-LLP-%D0%BF%D1%80%D0%BE%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA-%D0%BF%D1%80%D0%B5%D0%B1%D0%B8%D0%BE%D1%82%D0%B8%D0%BA-%D0%B8%D0%BC%D0%BC%D1%83%D0%BD%D0%B8%D1%82%D0%B5%D1%82-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.html
+Allow: /https://kidolive.pl/Kidolive-%D0%BA%D0%B0%D0%BB%D1%8C%D1%86%D0%B8%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.html
+Allow: /https://kidolive.pl/Kidolive-%D0%BF%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86-%D0%B2-%D1%88%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4%D0%B5.html
+Allow: /https://kidolive.pl/Kidolive-%D0%BE%D0%BC%D0%B5%D0%B3%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.html
+Allow: /https://kidolive.pl/Kidolive-%D1%81%D0%B8%D1%80%D0%BE%D0%BF-%D0%BF%D0%BE%D0%BB%D0%B8%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD%D0%BD%D1%8B%D0%B8%CC%86-%D0%B4%D0%BB%D1%8F-%D0%B4%D0%B5%D1%82%D0%B5%D0%B8%CC%86.html
+Allow: /https://kidolive.pl/Kidolive-%D0%B2%D0%B8%D1%82%D0%B0%D0%BC%D0%B8%D0%BD-D3-%D0%BA%D0%B0%D0%BF%D0%BB%D0%B8.html
+Allow: /https://kidolive.pl/Kidolive-%D1%86%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D0%B8.html
+
+
+Sitemap: https://kidolive.pl/sitemap.xml
+
